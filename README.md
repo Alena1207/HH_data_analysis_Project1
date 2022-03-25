@@ -23,7 +23,7 @@
 
 ### Краткая информация о данных
 Данные представлены датасетом dst-3.0_16_1_hh_database.csv и дополнительным датасетом ExchangeRates.csv для преобразования данных.
-  
+Ссылка на датасет с данными HH: https://drive.google.com/file/d/1cSmYoxDBHAIvHBUoKWTfi6pIFLXwVlPi/view?usp=sharing  
 :arrow_up:[к оглавлению](.README.md#Оглавление)
 
 
